@@ -1,5 +1,5 @@
 <center>
-<h1> 🏚️Mapping Practice</h1>
+<h1> Mapping Practice</h1>
 </center>
 <center>
 <a href="Java url">
@@ -119,15 +119,6 @@ This endpoint makes a call to method in Service class which is connected to data
 
 ---
 
-## JpaRepository extended by Repository interface.
 
 
-We have used JpaRepository to implement CRUD Operations.
 
----
-
-## 📝Project Summary
-
-I have created Mapping Practice project.  In this project I have used @OneToOne , @ManyToOne , @ManyToMany mapping , user can add the Address , Student , Course , Book , Laptop.  Can delete , update , get ,  can find. etc...
-
-![Alt text](https://media.tenor.com/Ra5kgH_k8yMAAAAj/thank-you-thank-you-heart.gif)
